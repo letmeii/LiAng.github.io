@@ -15,9 +15,9 @@ keywords: LiAng,里昂,js,html,css,前端,,生活故事,架构,大数据,一线,
 encoding: "utf-8"
 favicon: favicon.ico 
 
-repository: letmeii.guthub.io/LiAng.github.io
-github_url: https://github.com/LiAng
-url: http://www.ityouknow.com
+repository: github_LiAng/github_LiAng.github.io
+github_url: https://github.com/github_LiAng
+url: https://github_LiAng.github.io
 enforce_ssl: github_letmeii.com
 
 ## Gem
